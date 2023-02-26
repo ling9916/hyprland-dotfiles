@@ -1,0 +1,16 @@
+
+
+/*
+*/
+
+!.git/
+!foot/
+!hypr/
+!kitty/
+!ranger/
+!waybar/
+!zsh/
+!nvim/
+
+!.gitignore
+!READER.md
