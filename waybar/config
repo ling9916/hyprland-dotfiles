@@ -1,5 +1,5 @@
 {
-    "height": 28, // Waybar height (to be removed for auto height)
+    "height": 30, // Waybar height (to be removed for auto height)
     // "margin-top": 0,
     // "margin-left": 13,
     // "margin-bottom": 0,
@@ -35,7 +35,7 @@
         "spacing": 10
     },
     "clock":{
-        "format": " {:%e.%b.%Y %H:%M}",
+        "format": "{:%e-%b-%Y %H:%M}",
         // "format-alt": " {:%A, %B %d, %Y (%R)}",
         "tooltip-format": "<tt><small>{calendar}</small></tt>",
         "calendar": {

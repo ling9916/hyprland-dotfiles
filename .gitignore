@@ -10,7 +10,7 @@
 !ranger/
 !waybar/
 !zsh/
-!nvim/
+!nvim/*.vim
 
 !.gitignore
 !READER.md
